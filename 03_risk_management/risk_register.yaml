@@ -1,0 +1,41 @@
+# Auctory Risk Register (starter)
+# Fields are intentionally explicit to support audits.
+- id: R-001
+  title: Compromise of GitHub Organization account
+  asset: GitHub Organization
+  threat: Account takeover / token theft
+  likelihood: 1
+  impact: 3
+  risk_score: 3
+  treatment_decision: Reduce
+  controls:
+    - "5.15"
+    - "5.16"
+    - "5.17"
+    - "8.4"
+    - "8.5"
+  current_measures: "MFA enforced; hardware security keys (Yubikey); branch protection; audit logs."
+  action_plan: "Maintain MFA enforcement; review org members quarterly; enable dependency scanning."
+  owner: "Andrea Gagliardi"
+  due_date: "2026-06-30"
+  status: "Implemented"
+  evidence:
+    - "evidence/screenshots/github-mfa-enforcement.png (placeholder)"
+- id: R-002
+  title: Customer VM data loss without timely recovery
+  asset: Customer-dedicated Hetzner VM(s)
+  threat: Storage failure / operator error / corruption
+  likelihood: 2
+  impact: 3
+  risk_score: 6
+  treatment_decision: Reduce
+  controls:
+    - "8.13"
+    - "5.30"
+  current_measures: "Hetzner snapshots/backups available; restore procedure documented."
+  action_plan: "Define RPO/RTO per tier; perform and record annual restore test."
+  owner: "Andrea Gagliardi"
+  due_date: "2026-05-31"
+  status: "In progress"
+  evidence:
+    - "evidence/restore-tests/restore-test-2026-01.md (placeholder)"

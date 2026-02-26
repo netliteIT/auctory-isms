@@ -1,0 +1,9 @@
+# Privileged Access Register (starter)
+- id: PA-2026-0001
+  date: "2026-02-01"
+  system: "Hetzner VM - Customer A"
+  requester: "Andrea Gagliardi"
+  reason: "Planned maintenance / security patching"
+  approval: "Andrea Gagliardi"
+  duration: "2h"
+  evidence: "Link to issue/PR and logs (placeholder)"

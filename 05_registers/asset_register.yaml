@@ -1,0 +1,35 @@
+# Asset Register (starter)
+- id: AS-001
+  name: GitHub Organization (Auctory)
+  type: SaaS Platform
+  owner: "Andrea Gagliardi"
+  classification: High
+  notes: "Source code, CI/CD, ISMS docs, audit trail."
+
+- id: AS-002
+  name: Hetzner Cloud Account
+  type: Cloud Provider Account
+  owner: "Andrea Gagliardi"
+  classification: High
+  notes: "Customer-dedicated VMs, snapshots/backups."
+
+- id: AS-003
+  name: Overlay Network (e.g., Tailscale)
+  type: Network Access Control
+  owner: "Andrea Gagliardi"
+  classification: High
+  notes: "Admin access path to customer VMs; MFA enforced."
+
+- id: AS-004
+  name: Centralized syslog (per customer)
+  type: Logging Service
+  owner: "Engineering"
+  classification: High
+  notes: "System and application logs; retention per customer tier."
+
+- id: AS-005
+  name: Prometheus metrics server (per customer)
+  type: Monitoring Service
+  owner: "Engineering"
+  classification: Medium
+  notes: "Metrics and alerting."

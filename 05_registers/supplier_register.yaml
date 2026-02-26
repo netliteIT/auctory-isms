@@ -1,0 +1,29 @@
+# Supplier Register (starter)
+- id: SUP-001
+  name: Hetzner
+  service: Cloud VMs + snapshot/backup capability
+  criticality: High
+  iso27001_certified: "Unknown/To verify"
+  review_frequency: Annual
+  notes: "Customer-dedicated infrastructure; key dependency."
+- id: SUP-002
+  name: GitHub
+  service: Source control + CI/CD + audit trail
+  criticality: High
+  iso27001_certified: "Unknown/To verify"
+  review_frequency: Annual
+  notes: "ISMS-as-Code repository lives here."
+- id: SUP-003
+  name: Overlay network provider (e.g., Tailscale)
+  service: SDN overlay for admin access
+  criticality: High
+  iso27001_certified: "Unknown/To verify"
+  review_frequency: Annual
+  notes: "Primary path for administrative access."
+- id: SUP-004
+  name: Balena Cloud
+  service: Fleet management (out of ISMS scope for gateways)
+  criticality: Medium
+  iso27001_certified: "Yes (provider claim) / To verify"
+  review_frequency: Annual
+  notes: "Dependency for gateway management; gateway out-of-scope."

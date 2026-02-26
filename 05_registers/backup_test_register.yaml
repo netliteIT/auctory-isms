@@ -1,0 +1,10 @@
+# Backup restore test register (starter)
+- id: BRT-2026-0001
+  date: "2026-01-20"
+  system: "Hetzner VM - Sample customer instance"
+  backup_type: "Snapshot"
+  rto_achieved: "TBD"
+  rpo_achieved: "TBD"
+  outcome: "Success"
+  performed_by: "Engineering"
+  evidence: "evidence/restore-tests/restore-test-2026-01.md (placeholder)"

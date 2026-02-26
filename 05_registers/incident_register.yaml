@@ -1,0 +1,10 @@
+# Incident Register (starter)
+- id: INC-2026-0001
+  date_detected: "2026-01-15"
+  detected_by: "Monitoring"
+  description: "Example placeholder - remove once real incidents exist."
+  severity: "Low"
+  status: "Closed"
+  actions_taken: "N/A"
+  lessons_learned: "N/A"
+  evidence: "N/A"

@@ -1,0 +1,1026 @@
+# Statement of Applicability (SoA) - ISO/IEC 27001:2022 Annex A
+# Controls list and titles aligned to ISO/IEC 27001:2022 Annex A structure (93 controls).
+controls:
+  - id: "5.1"
+    name_en: "Policies for information security"
+    name_it: "Politiche per la sicurezza delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.2"
+    name_en: "Information security roles and responsibilities"
+    name_it: "Ruoli e responsabilità per la sicurezza delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.3"
+    name_en: "Segregation of duties"
+    name_it: "Segregazione dei compiti"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.4"
+    name_en: "Management responsibilities"
+    name_it: "Responsabilità della direzione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.5"
+    name_en: "Contact with authorities"
+    name_it: "Contatto con le autorità"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.6"
+    name_en: "Contact with special interest groups"
+    name_it: "Contatto con gruppi di interesse"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.7"
+    name_en: "Threat intelligence"
+    name_it: "Threat intelligence"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.8"
+    name_en: "Information security in project management"
+    name_it: "Sicurezza delle informazioni nel project management"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.9"
+    name_en: "Inventory of information and other associated assets"
+    name_it: "Inventario delle informazioni e degli asset associati"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.10"
+    name_en: "Acceptable use of information and other associated assets"
+    name_it: "Uso accettabile delle informazioni e degli asset associati"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.11"
+    name_en: "Return of assets"
+    name_it: "Restituzione degli asset"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.12"
+    name_en: "Classification of information"
+    name_it: "Classificazione delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.13"
+    name_en: "Labelling of information"
+    name_it: "Etichettatura delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.14"
+    name_en: "Information transfer"
+    name_it: "Trasferimento delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.15"
+    name_en: "Access control"
+    name_it: "Controllo degli accessi"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.16"
+    name_en: "Identity management"
+    name_it: "Gestione delle identità"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.17"
+    name_en: "Authentication information"
+    name_it: "Informazioni di autenticazione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.18"
+    name_en: "Access rights"
+    name_it: "Diritti di accesso"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.19"
+    name_en: "Information security in supplier relationships"
+    name_it: "Sicurezza delle informazioni nei rapporti con i fornitori"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.20"
+    name_en: "Addressing information security within supplier agreements"
+    name_it: "Sicurezza delle informazioni negli accordi con i fornitori"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.21"
+    name_en: "Managing information security in the ICT supply chain"
+    name_it: "Gestione della sicurezza delle informazioni nella supply chain ICT"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.22"
+    name_en: "Monitoring, review and change management of supplier service"
+    name_it: "Monitoraggio, riesame e gestione cambiamenti dei servizi del fornitore"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.23"
+    name_en: "Information security for use of cloud services"
+    name_it: "Sicurezza delle informazioni per l’uso di servizi cloud"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.24"
+    name_en: "Information security incident management planning and preparation"
+    name_it: "Pianificazione e preparazione per la gestione degli incidenti di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.25"
+    name_en: "Assessment and decision on information security events"
+    name_it: "Valutazione e decisione sugli eventi di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.26"
+    name_en: "Response to information security incidents"
+    name_it: "Risposta agli incidenti di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.27"
+    name_en: "Learning from information security incidents"
+    name_it: "Apprendimento dagli incidenti di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.28"
+    name_en: "Collection of evidence"
+    name_it: "Raccolta delle evidenze"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.29"
+    name_en: "Information security during disruption"
+    name_it: "Sicurezza delle informazioni durante interruzioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.30"
+    name_en: "ICT readiness for business continuity"
+    name_it: "Prontezza ICT per la continuità operativa"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.31"
+    name_en: "Legal, statutory, regulatory and contractual requirements"
+    name_it: "Requisiti legali, statutari, normativi e contrattuali"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.32"
+    name_en: "Intellectual property rights"
+    name_it: "Diritti di proprietà intellettuale"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.33"
+    name_en: "Protection of records"
+    name_it: "Protezione delle registrazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.34"
+    name_en: "Privacy and protection of PII"
+    name_it: "Privacy e protezione dei dati personali (PII)"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.35"
+    name_en: "Independent review of information security"
+    name_it: "Riesame indipendente della sicurezza delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.36"
+    name_en: "Compliance with policies, rules and standards for information security"
+    name_it: "Conformità a politiche, regole e standard di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "5.37"
+    name_en: "Documented operating procedures"
+    name_it: "Procedure operative documentate"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.1"
+    name_en: "Screening"
+    name_it: "Selezione / verifica preliminare"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.2"
+    name_en: "Terms and conditions of employment"
+    name_it: "Termini e condizioni di lavoro"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.3"
+    name_en: "Information security awareness, education and training"
+    name_it: "Consapevolezza, formazione e addestramento"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.4"
+    name_en: "Disciplinary process"
+    name_it: "Processo disciplinare"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.5"
+    name_en: "Responsibilities after termination or change of employment"
+    name_it: "Responsabilità dopo cessazione o cambio rapporto"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.6"
+    name_en: "Confidentiality or non-disclosure agreements"
+    name_it: "Accordi di riservatezza / NDA"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.7"
+    name_en: "Remote working"
+    name_it: "Lavoro da remoto"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "6.8"
+    name_en: "Information security event reporting"
+    name_it: "Segnalazione eventi di sicurezza"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.1"
+    name_en: "Physical security perimeters"
+    name_it: "Perimetri di sicurezza fisica"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.2"
+    name_en: "Physical entry"
+    name_it: "Accesso fisico"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.3"
+    name_en: "Securing offices, rooms and facilities"
+    name_it: "Messa in sicurezza di uffici, locali e strutture"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.4"
+    name_en: "Physical security monitoring"
+    name_it: "Monitoraggio della sicurezza fisica"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.5"
+    name_en: "Protecting against physical and environmental threats"
+    name_it: "Protezione da minacce fisiche e ambientali"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.6"
+    name_en: "Working in secure areas"
+    name_it: "Lavoro in aree sicure"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.7"
+    name_en: "Clear desk and clear screen"
+    name_it: "Scrivania pulita e schermo pulito"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.8"
+    name_en: "Equipment siting and protection"
+    name_it: "Posizionamento e protezione delle apparecchiature"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.9"
+    name_en: "Security of assets off-premises"
+    name_it: "Sicurezza degli asset fuori sede"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.10"
+    name_en: "Storage media"
+    name_it: "Supporti di memorizzazione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.11"
+    name_en: "Supporting utilities"
+    name_it: "Servizi di supporto"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.12"
+    name_en: "Cabling security"
+    name_it: "Sicurezza dei cablaggi"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.13"
+    name_en: "Equipment maintenance"
+    name_it: "Manutenzione delle apparecchiature"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "7.14"
+    name_en: "Secure disposal or re-use of equipment"
+    name_it: "Smaltimento sicuro o riuso delle apparecchiature"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.1"
+    name_en: "User endpoint devices"
+    name_it: "Dispositivi endpoint utente"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.2"
+    name_en: "Privileged access rights"
+    name_it: "Diritti di accesso privilegiato"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.3"
+    name_en: "Information access restriction"
+    name_it: "Restrizione dell’accesso alle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.4"
+    name_en: "Access to source code"
+    name_it: "Accesso al codice sorgente"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.5"
+    name_en: "Secure authentication"
+    name_it: "Autenticazione sicura"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.6"
+    name_en: "Capacity management"
+    name_it: "Gestione della capacità"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.7"
+    name_en: "Protection against malware"
+    name_it: "Protezione contro malware"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.8"
+    name_en: "Management of technical vulnerabilities"
+    name_it: "Gestione delle vulnerabilità tecniche"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.9"
+    name_en: "Configuration management"
+    name_it: "Gestione della configurazione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.10"
+    name_en: "Information deletion"
+    name_it: "Cancellazione delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.11"
+    name_en: "Data masking"
+    name_it: "Mascheramento dei dati"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.12"
+    name_en: "Data leakage prevention"
+    name_it: "Prevenzione della perdita di dati"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.13"
+    name_en: "Information backup"
+    name_it: "Backup delle informazioni"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.14"
+    name_en: "Redundancy of information processing facilities"
+    name_it: "Ridondanza delle risorse di elaborazione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.15"
+    name_en: "Logging"
+    name_it: "Logging"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.16"
+    name_en: "Monitoring activities"
+    name_it: "Monitoraggio delle attività"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.17"
+    name_en: "Clock synchronization"
+    name_it: "Sincronizzazione dell’orologio"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.18"
+    name_en: "Use of privileged utility programs"
+    name_it: "Uso di utility privilegiate"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.19"
+    name_en: "Installation of software on operational systems"
+    name_it: "Installazione software su sistemi operativi"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.20"
+    name_en: "Networks security"
+    name_it: "Sicurezza delle reti"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.21"
+    name_en: "Security of network services"
+    name_it: "Sicurezza dei servizi di rete"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.22"
+    name_en: "Segregation of networks"
+    name_it: "Segregazione delle reti"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.23"
+    name_en: "Web filtering"
+    name_it: "Filtraggio web"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.24"
+    name_en: "Use of cryptography"
+    name_it: "Uso della crittografia"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.25"
+    name_en: "Secure development life cycle"
+    name_it: "Ciclo di vita di sviluppo sicuro (SDLC)"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.26"
+    name_en: "Application security requirements"
+    name_it: "Requisiti di sicurezza applicativa"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.27"
+    name_en: "Secure system architecture and engineering principles"
+    name_it: "Architettura e principi di ingegneria sicura"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.28"
+    name_en: "Secure coding"
+    name_it: "Codifica sicura"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.29"
+    name_en: "Security testing in development and acceptance"
+    name_it: "Test di sicurezza in sviluppo e accettazione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.30"
+    name_en: "Outsourced development"
+    name_it: "Sviluppo in outsourcing"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.31"
+    name_en: "Separation of development, test and production environments"
+    name_it: "Separazione ambienti sviluppo, test e produzione"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.32"
+    name_en: "Change management"
+    name_it: "Gestione dei cambiamenti"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.33"
+    name_en: "Test information"
+    name_it: "Informazioni di test"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
+  - id: "8.34"
+    name_en: "Protection of information systems during audit testing"
+    name_it: "Protezione dei sistemi durante test di audit"
+    applicable: true
+    implementation_status: "Implemented"  # Implemented | Planned | Not implemented
+    justification: ""  # why applicable/not applicable, based on scope & risks
+    control_owner: "Andrea Gagliardi"
+    references:
+      - ""  # e.g., link to policy/procedure in this repo
+    evidence:
+      - ""  # e.g., evidence path or immutable link
